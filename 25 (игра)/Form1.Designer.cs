@@ -69,7 +69,7 @@ namespace _25__игра_
             this.MaximumSize = new System.Drawing.Size(385, 240);
             this.MinimumSize = new System.Drawing.Size(385, 240);
             this.Name = "Main";
-            this.Text = "Главная";
+            this.Text = "Главный";
             this.ResumeLayout(false);
 
         }

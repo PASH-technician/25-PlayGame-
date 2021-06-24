@@ -193,7 +193,7 @@ namespace _25__игра_
             this.Controls.Add(this.counter_score);
             this.Controls.Add(this.label1);
             this.Name = "game_frame";
-            this.Text = "z";
+            this.Text = "Игровое поле";
             this.Load += new System.EventHandler(this.game_frame_Load);
             ((System.ComponentModel.ISupportInitialize)(this.hexagon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.triangle)).EndInit();
